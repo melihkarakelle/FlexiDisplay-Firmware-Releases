@@ -1,5 +1,5 @@
 # FlexiDisplay-Firmware-Releases
-Repository for the available FlexiDisplay Firmware
+Repository for the available FlexiDisplay Firmwares
 
-- FlexiDisplay_Final_Release.bin is the latest firmware
-- FlexiDisplay_Final_Release_no_flicker.bin. is the latest formware if you have a flickering display issue. 
+- FlexiDisplay_Latest_Firmware.bin is the latest firmware
+
