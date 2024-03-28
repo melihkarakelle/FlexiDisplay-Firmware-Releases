@@ -1,4 +1,4 @@
-# FlexiDisplay-Firmware-Releases
+# FlexiDisplay Firmware Releases
 Repository for the available FlexiDisplay Firmwares
 
 The latest firmware for FlexiDisplay with the legacy Nokia display module
