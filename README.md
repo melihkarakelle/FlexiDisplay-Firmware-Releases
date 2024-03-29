@@ -2,7 +2,7 @@
 Repository for the available FlexiDisplay Firmwares
 
 Recognize your FlexiDisplay model first:
-![FlexiDisplay with Legacy Nokia Display]([photos/LegacyNokiaFront.jpg](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/blob/main/photos/LegacyNokiaFront.jpg))
+![FlexiDisplay with Legacy Nokia Display]([https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/photos/LegacyNokiaFront.jpg](photos/ST7567_Working.jpg)
 
 The latest firmware for FlexiDisplay with the legacy Nokia display module
 - [FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/With_Legacy_Nokia_Display/FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin)
