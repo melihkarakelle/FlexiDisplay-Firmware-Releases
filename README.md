@@ -1,21 +1,28 @@
 # FlexiDisplay Firmware Releases
 Repository for the available FlexiDisplay Firmwares
 
-1.Recognize your FlexiDisplay model first
+## 1.Recognize your FlexiDisplay model first
+
+### NOKIA DISPLAY
+![Nokia Working](./photos/Nokia_Working.jpg)
+![Nokia Charging](./photos/Nokia_Charging.jpg)
+
+### ST7567 DISPLAY
+![ST7567 Working](./photos/ST7567_Working.jpg)
+![ST7567 Charging](./photos/ST7567_Charging.jpg)
 
 
-![/photos/LegacyNokiaFront.jpg](./photos/ST7567_Working.jpg)
-Recognize your FlexiDisplay model first:
+## 2.Download the right firmware for your FlexiDisplay
 
-The latest firmware for FlexiDisplay with the legacy Nokia display module
-- [FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/With_Legacy_Nokia_Display/FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin)
+### With NOKIA DISPLAY
+- [FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin](./raw/main/With_Legacy_Nokia_Display/FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin)
 
-The latest firmware for FlexiDisplay with the new ST7567 display module
-- [FlexiDisplay_ST7567_Display_Latest_Firmware.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/With_ST7567_Display/FlexiDisplay_ST7567_Display_Latest_Firmware.bin)
-
+### with ST7567 DISPLAY
+- [FlexiDisplay_ST7567_Display_Latest_Firmware.bin](./raw/main/With_ST7567_Display/FlexiDisplay_ST7567_Display_Latest_Firmware.bin)
 
 
-### Version History:
+
+# Version History:
 * v2.0  
   * Magnetic Deviation calibration added to the Settings.
   * Compass Arrow code updated
