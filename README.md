@@ -24,6 +24,8 @@ These displays have solderable contacts.<br />
 
 ## 2.Download the right firmware for your FlexiDisplay
 
+The Latest firmware version is v2.0
+
 ### with NOKIA DISPLAY
 - [FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/With_Legacy_Nokia_Display/FlexiDisplay_Legacy_NOKIA_Display_Latest_Firmware.bin)
 
