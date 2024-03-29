@@ -8,3 +8,9 @@ The latest firmware for FlexiDisplay with the new ST7567 display module
 - [FlexiDisplay_ST7567_Display_Latest_Firmware.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/With_ST7567_Display/FlexiDisplay_ST7567_Display_Latest_Firmware.bin)
 
 
+
+### Version History:
+* v2.0  
+  * Magnetic Deviation calibration added to the Settings.
+  * Compass Arrow code updated
+  * ST7567 Display support added for the newer FlexiDisplays
