@@ -1,6 +1,5 @@
 # FlexiDisplay Firmware Releases
-Firmware for the original FlexiDisplay hand unit (ESP32).
-For FlexiDisplay YELLO and SkyLink see [BMK_Firmware_Releases](https://github.com/melihkarakelle/BMK_Firmware_Releases).
+Firmware for the FlexiDisplay hand unit.
 
 ## Latest firmware: v4.0
 
@@ -84,7 +83,7 @@ These displays have solderable contacts. <br />
   - the arrow also works with the unit held upright;
   - smoother round arrow;
   - ARROW ADJUST replaces magnetic deviation.
-- FIND FD UNITS: shows the other FlexiDisplay / YELLO units nearby. They can also be found from the app.
+- FIND FD UNITS: shows the other FlexiDisplay units nearby. They can also be found from the app.
 - 2Way beacon setup, from the unit (2WAY BEACON menu) or from the app. FSK / LoRa radio mode in the device settings.
 - GPS aiding from the phone, for a faster first fix.
 - Step counter, with automatic GPS low-power mode while you walk (GPS AUTO LP).
