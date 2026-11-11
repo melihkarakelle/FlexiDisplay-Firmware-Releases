@@ -7,25 +7,9 @@ Firmware for the FlexiDisplay hand unit.
 
 - [FlexiDisplay_v4.0_BLE.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/FlexiDisplay_v4.0_BLE.bin)
 
-The same file is used for the Bluetooth update in the app and for the WiFi update in a web browser.
+It installs over WiFi from a web browser on any FlexiDisplay, whatever firmware it has now.
 
-There are two ways to install it:
-
-| Your FlexiDisplay has | Use |
-|---|---|
-| v3.0 or later | **Bluetooth** with the BMK FlyMate app (easiest), or WiFi |
-| v2.0 or older | **WiFi** once (steps below). After that, Bluetooth works too. |
-
-The firmware version is shown on the FlexiDisplay's info page.
-
-## Update over Bluetooth (v3.0 and later)
-1. Install **BMK FlyMate** (App Store / Google Play) and connect to your FlexiDisplay.
-2. Hold the phone next to the FlexiDisplay (within 1–2 m).
-3. Open **Device Update** and choose **FlexiDisplay v1.0 firmware v4.0 (Bluetooth)**.
-4. When the FlexiDisplay shows **PRESS RED TO CONFIRM**, press its RED button.
-5. The FlexiDisplay shows the progress and restarts by itself when the update is done.
-
-## Update over WiFi (any version)
+## How to install
 
 ### 1. Download the firmware
 Download [FlexiDisplay_v4.0_BLE.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/FlexiDisplay_v4.0_BLE.bin)
