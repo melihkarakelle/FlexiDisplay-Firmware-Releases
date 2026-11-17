@@ -1,18 +1,18 @@
 # FlexiDisplay Firmware Releases
 Firmware for the FlexiDisplay hand unit.
 
-## Latest firmware: v4.0
+## Latest firmware: v4.1
 
 **One file for both screen types** (Nokia and ST7567). The firmware detects the screen by itself.
 
-- [FlexiDisplay_v4.0_BLE.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/FlexiDisplay_v4.0_BLE.bin)
+- [FlexiDisplay_v4.1_BLE.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/FlexiDisplay_v4.1_BLE.bin)
 
 It installs over WiFi from a web browser on any FlexiDisplay, whatever firmware it has now.
 
 ## How to install
 
 ### 1. Download the firmware
-Download [FlexiDisplay_v4.0_BLE.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/FlexiDisplay_v4.0_BLE.bin)
+Download [FlexiDisplay_v4.1_BLE.bin](https://github.com/melihkarakelle/FlexiDisplay-Firmware-Releases/raw/main/FlexiDisplay_v4.1_BLE.bin)
 to your computer, phone or tablet.
 
 ### 2. Switch your FlexiDisplay to WiFi mode
@@ -31,7 +31,7 @@ The screen shows **WiFi ON**, the network name (ID) and the password.
 Open a web browser and go to **[192.168.4.1](http://192.168.4.1)**.
 
 ### 5. Upload the firmware
-- Choose the downloaded `FlexiDisplay_v4.0_BLE.bin` file.
+- Choose the downloaded `FlexiDisplay_v4.1_BLE.bin` file.
 - Press the upload button. The FlexiDisplay's screen shows the progress.
 - The FlexiDisplay restarts by itself after the update. Do not switch it off during the update.
 
@@ -55,6 +55,12 @@ These displays have solderable contacts. <br />
 ![ST7567 Charging](./photos/ST7567_Charging.jpg)
 
 # Version History
+
+### v4.1
+- Beacon selection shared with the BMK FlyMate app: a beacon picked on the app's map is selected on the unit, and a
+  beacon selected on the unit (menu, QR page, antenna kiss) is selected in the app. The app picks up the unit's last
+  beacon when it connects.
+- GPS accuracy (Q) from the receiver's own error estimate; no position drift in GPS low power.
 
 ### v4.0
 - One firmware for both screen types: the screen is detected automatically.
